@@ -131,5 +131,6 @@ Papers on other topics:
 1. **SMART: A tool for analyzing and reconciling schema matching networks**
 <br>[[Paper]](https://infoscience.epfl.ch/record/203576/files/ICDE15_SMART.pdf?ln=en)
     [[Cite]](https://infoscience.epfl.ch/record/203576/export/btex)
+    
 ... more notes are coming soon ...
 <br>For a complete list of papers, see my [Google Scholar](https://scholar.google.com/citations?user=k3NGWtsAAAAJ&hl=en).
