@@ -30,7 +30,7 @@ See also this [announcement](https://www.pecanstreet.org/2014/03/with-wiki-energ
 
 1. **Temporal Association Rules For Electrical Activity Detection in Residential Homes**
 <br>[[Paper]](https://vs.inf.ethz.ch/publ/papers/caoh_bigdata16_TAR.pdf)
-    [[Cite]](https://ieeexplore.ieee.org/abstract/document/7840964)
+    [[Cite]](https://dblp.org/rec/conf/bigdataconf/CaoWAN16a.html)
 <br>Dataset: https://www.pecanstreet.org/dataport/ there is free pricing for university users.
 
 1. **Crowdsourcing Behavioral Incentives for Pervasive Demand Response**
@@ -45,7 +45,7 @@ See also this [announcement](https://www.pecanstreet.org/2014/03/with-wiki-energ
 1. **Leveraging User Expertise in Collaborative Systems for Annotating Energy Datasets**
 <br>[[Paper]](https://www.academia.edu/download/60980726/BigData2016b20191022-45716-1kpqivj.pdf)
     [[Code]](https://github.com/caoh/CAFED)
-    [[Cite]](https://ieeexplore.ieee.org/document/7840963)
+    [[Cite]](https://dblp.org/rec/conf/bigdataconf/CaoRWAN16.html)
 
 1. **Consumer Segmentation and Knowledge Extraction from Smart Meter and Survey Data**
 <br>[[Paper + Supp. material]](https://infoscience.epfl.ch/record/196276/files/sdm14_complete.pdf?ln=en)
@@ -89,5 +89,47 @@ See also this [announcement](https://www.pecanstreet.org/2014/03/with-wiki-energ
     [[Code]](https://github.com/tritritri/matching-demand/)
     [[Cite]](https://infoscience.epfl.ch/record/184023/export/btex)
 
+1. **Electricity Load Forecasting for Residential Customers: Exploiting Aggregation and Correlation between Households**
+<br>[[Paper]](https://infoscience.epfl.ch/record/188682/files/rlf_humeau.pdf?ln=en)
+    [[Code]](https://github.com/samhumeau/residential_load_forecasting)
+    [[Cite]](https://infoscience.epfl.ch/record/188682/export/btex) 
+
+1. **Symbolic Representation of Smart Meter Data**
+<br>[[Paper]](https://infoscience.epfl.ch/record/185831/files/Symbolic-Representation-Wijaya.pdf?ln=en)
+    [[Cite]](https://infoscience.epfl.ch/record/185831/export/btex)
+
+1. **iDR: Consumer and Grid Friendly Demand Response System**
+<br>[[Paper]](https://infoscience.epfl.ch/record/198476/files/energy086-chandan.pdf?ln=en)
+    [[Cite]](https://infoscience.epfl.ch/record/198476/export/btex)
+
+1. **DRSim: A Cyber Physical Simulator for Demand Response Systems**
+<br>[[Paper]](https://infoscience.epfl.ch/record/188198/files/DRSim_Wijaya.pdf?ln=en)
+    [[Cite]](https://infoscience.epfl.ch/record/188198/export/btex)
+
+1. **Methodologies for Effective Demand Response Messaging**
+<br>[[Paper]](https://www.dgp.toronto.edu/~mjain/SGC-2015.pdf)
+    [[Cite]](https://dblp.org/rec/conf/smartgridcomm/JainCMTWLG15.html)
+
+1. **A Collaborative Framework for Annotating Energy Datasets**
+<br>[[Paper]](https://www.researchgate.net/profile/Nuno-Nunes-9/publication/304326818_A_Collaborative_Framework_for_Annotating_Energy_Datasets/links/576bf10508aef0e50da89a96/A-Collaborative-Framework-for-Annotating-Energy-Datasets.pdf)
+    [[Cite]](https://dblp.org/rec/conf/bigdataconf/CaoWAN15.html)
+
+Papers on other topics:
+
+1. **Cognitive Radio Algorithms Coexisting in a Network: Performance and Parameter Sensitivity**
+<br>[[Paper in IEEE]](https://ieeexplore.ieee.org/document/7776809)
+    [[Cite]](https://dblp.org/rec/journals/tccn/HessMKWD16.html)
+
+1. **Mining Complex Activities in the Wild via a Single Smartphone Accelerometer**
+<br>[[Paper]](https://infoscience.epfl.ch/record/183140/files/p43-rai.pdf?ln=en)
+    [[Cite]](https://infoscience.epfl.ch/record/183140/export/btex) 
+
+1. **Minimizing Human Effort in Reconciling Match Networks**
+<br>[[Paper]](https://infoscience.epfl.ch/record/187084/files/ERnisb.pdf?ln=en)
+    [[Cite]](https://infoscience.epfl.ch/record/187084/export/btex)
+
+1. **SMART: A tool for analyzing and reconciling schema matching networks**
+<br>[[Paper]](https://infoscience.epfl.ch/record/203576/files/ICDE15_SMART.pdf?ln=en)
+    [[Cite]](https://infoscience.epfl.ch/record/203576/export/btex)
 ... more notes are coming soon ...
 <br>For a complete list of papers, see my [Google Scholar](https://scholar.google.com/citations?user=k3NGWtsAAAAJ&hl=en).
