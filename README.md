@@ -127,7 +127,28 @@ See also this [announcement](https://www.pecanstreet.org/2014/03/with-wiki-energ
        [[Cite]](https://dblp.org/rec/conf/bmvc/BaldassarreDPW22.html?view=bibtex)
 
 1. [RecSys] **Online Meta-Learning for Model Update Aggregation in Federated Learning for Click-Through Rate Prediction**
-   <br>[[Paper]](https://arxiv.org/pdf/2209.00629.pdf)
+   <br>[[Paper]](http://papers.adkdd.org/2022/papers/adkdd22-liu-online.pdf)
+       [[Slides]](http://papers.adkdd.org/2022/paper-presentations/slides-adkdd22-liu-online.pdf)
+       [[Video]](https://www.youtube.com/watch?v=l51DbzbZkJo)
+       <details>
+       <summary>
+       [Cite]
+       </summary>
+        <pre>
+        @article{Liu/AdKDD/2022/MetaUA,
+        author       = {Xianghang Liu and
+                        Bartlomiej Twardowski and
+                        Tri Kurniawan Wijaya},
+        title        = {Online Meta-Learning for Model Update Aggregation in Federated Learning
+                        for Click-Through Rate Prediction},
+        journal      = {28th ACM SIGKDD 2022 Workshop on AdKDD},
+        year         = {2022},
+        url          = {https://www.adkdd.org/papers/Online-Meta-Learning-for-Model-Update-Aggregation-in-Federated-Learning-for-Click-Through-Rate-Prediction/2022},
+        doi          = {10.48550/arXiv.2209.00629},
+        }
+        </pre>
+       </details>
+
 
 1. [RecSys] MM-GEF: Multi-modal representation meet collaborative filtering
 
