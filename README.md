@@ -121,14 +121,17 @@ See also this [announcement](https://www.pecanstreet.org/2014/03/with-wiki-energ
        [[Code + Dataset]](https://github.com/alarca94/magrec)
        [[Cite]](https://dblp.org/rec/conf/ecir/ArizaCasabonaTW23.html?view=bibtex)
        
+1. [CV] Quantitative Metrics for Evaluating Explanations of Video DeepFake Detectors
+   <br>[[Paper]](https://bmvc2022.mpi-inf.mpg.de/0972.pdf)
+       [[Video]](https://www.youtube.com/watch?v=KAwigBozHeM)
+       [[Cite]](https://dblp.org/rec/conf/bmvc/BaldassarreDPW22.html?view=bibtex)
 
-1. [RecSys] Online Meta-Learning for Model Update Aggregation in Federated Learning for Click-Through Rate Prediction
+1. [RecSys] **Online Meta-Learning for Model Update Aggregation in Federated Learning for Click-Through Rate Prediction**
+   <br>[[Paper]](https://arxiv.org/pdf/2209.00629.pdf)
 
 1. [RecSys] MM-GEF: Multi-modal representation meet collaborative filtering
 
 1. [RecSys] FedFNN: Faster Training Convergence Through Update Predictions in Federated Recommender Systems
-
-1. [CV] Quantitative Metrics for Evaluating Explanations of Video DeepFake Detectors
 
 1. [NLP] Topics as Entity Clusters: Entity-based Topics from Language Models and Graph Neural Networks
 
