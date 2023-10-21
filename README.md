@@ -30,7 +30,7 @@ See also this [announcement](https://www.pecanstreet.org/2014/03/with-wiki-energ
 
 1. **Temporal Association Rules For Electrical Activity Detection in Residential Homes**
 <br>[[Paper]](https://vs.inf.ethz.ch/publ/papers/caoh_bigdata16_TAR.pdf)
-    [[Dataset]] (https://www.pecanstreet.org/dataport/)
+    [[Dataset]](https://www.pecanstreet.org/dataport/)
     [[Cite]](https://dblp.org/rec/conf/bigdataconf/CaoWAN16a.html)
 
 1. **Crowdsourcing Behavioral Incentives for Pervasive Demand Response**
