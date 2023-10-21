@@ -1,10 +1,10 @@
 # Tri Kurniawan Wijaya
 
-Below are notes and resources on papers I published during my PhD on the topic of demand response and smart grid analytics. 
-Hopefully useful for you if you work in the same area.
-
 I am currently working for Huawei Research on the topic of Recommender Systems and Deep Learning.
 <br>Email: tri [dot] kurniawan (dot) wijaya [ at ] huawei ( dot ) com
+
+## Smart Grid, Demand Response, and Energy Analytics
+Below are notes and resources on papers I published during my PhD on the topic of demand response and smart grid analytics. 
 
 1. **Estimating Human Interactions with Electrical Appliances for Activity-based Energy Savings Recommendations**
 <br>[[Paper]](https://infoscience.epfl.ch/record/206947/files/poster.pdf?ln=en)
@@ -31,7 +31,7 @@ See also this [announcement](https://www.pecanstreet.org/2014/03/with-wiki-energ
 1. **Temporal Association Rules For Electrical Activity Detection in Residential Homes**
 <br>[[Paper]](https://vs.inf.ethz.ch/publ/papers/caoh_bigdata16_TAR.pdf)
     [[Dataset]](https://www.pecanstreet.org/dataport/)
-    [[Cite]](https://dblp.org/rec/conf/bigdataconf/CaoWAN16a.html)
+    [[Cite]](https://dblp.org/rec/conf/bigdataconf/CaoWAN16a.html?view=bibtex)
 
 1. **Crowdsourcing Behavioral Incentives for Pervasive Demand Response**
 <br>[[Paper]](https://infoscience.epfl.ch/record/200317/files/crowd-dr-v5.pdf?ln=en)
@@ -45,7 +45,7 @@ See also this [announcement](https://www.pecanstreet.org/2014/03/with-wiki-energ
 1. **Leveraging User Expertise in Collaborative Systems for Annotating Energy Datasets**
 <br>[[Paper]](https://www.academia.edu/download/60980726/BigData2016b20191022-45716-1kpqivj.pdf)
     [[Code]](https://github.com/caoh/CAFED)
-    [[Cite]](https://dblp.org/rec/conf/bigdataconf/CaoRWAN16.html)
+    [[Cite]](https://dblp.org/rec/conf/bigdataconf/CaoRWAN16.html?view=bibtex)
 
 1. **Consumer Segmentation and Knowledge Extraction from Smart Meter and Survey Data**
 <br>[[Paper + Supp. material]](https://infoscience.epfl.ch/record/196276/files/sdm14_complete.pdf?ln=en)
@@ -108,17 +108,42 @@ See also this [announcement](https://www.pecanstreet.org/2014/03/with-wiki-energ
 
 1. **Methodologies for Effective Demand Response Messaging**
 <br>[[Paper]](https://www.dgp.toronto.edu/~mjain/SGC-2015.pdf)
-    [[Cite]](https://dblp.org/rec/conf/smartgridcomm/JainCMTWLG15.html)
+    [[Cite]](https://dblp.org/rec/conf/smartgridcomm/JainCMTWLG15.html?view=bibtex)
 
 1. **A Collaborative Framework for Annotating Energy Datasets**
 <br>[[Paper]](https://www.researchgate.net/profile/Nuno-Nunes-9/publication/304326818_A_Collaborative_Framework_for_Annotating_Energy_Datasets/links/576bf10508aef0e50da89a96/A-Collaborative-Framework-for-Annotating-Energy-Datasets.pdf)
-    [[Cite]](https://dblp.org/rec/conf/bigdataconf/CaoWAN15.html)
+    [[Cite]](https://dblp.org/rec/conf/bigdataconf/CaoWAN15.html?view=bibtex)
 
-Papers on other topics:
+## Papers with Huawei
+
+1. [RecSys] **Exploiting Graph Structured Cross-Domain Representation for Multi-domain Recommendation**
+   <br>[[Paper]](https://arxiv.org/pdf/2302.05990.pdf)
+       [[Code + Dataset]](https://github.com/alarca94/magrec)
+       [[Cite]](https://dblp.org/rec/conf/ecir/ArizaCasabonaTW23.html?view=bibtex)
+       
+
+1. [RecSys] Online Meta-Learning for Model Update Aggregation in Federated Learning for Click-Through Rate Prediction
+
+1. [RecSys] MM-GEF: Multi-modal representation meet collaborative filtering
+
+1. [RecSys] FedFNN: Faster Training Convergence Through Update Predictions in Federated Recommender Systems
+
+1. [CV] Quantitative Metrics for Evaluating Explanations of Video DeepFake Detectors
+
+1. [NLP] Topics as Entity Clusters: Entity-based Topics from Language Models and Graph Neural Networks
+
+1. [NLP] STA: Self-controlled Text Augmentation for Improving Text Classifications
+
+1. [NLP] Multilingual News Location Detection using an Entity-Based Siamese Network with Semi-Supervised Contrastive Learning and Knowledge Base
+
+1. [NLP] SPICED: News Similarity Detection Dataset with Multiple Topics and Complexity Levels
+
+
+## Other Papers
 
 1. **Cognitive Radio Algorithms Coexisting in a Network: Performance and Parameter Sensitivity**
 <br>[[Paper in IEEE]](https://ieeexplore.ieee.org/document/7776809)
-    [[Cite]](https://dblp.org/rec/journals/tccn/HessMKWD16.html)
+    [[Cite]](https://dblp.org/rec/journals/tccn/HessMKWD16.html?view=bibtex)
 
 1. **Mining Complex Activities in the Wild via a Single Smartphone Accelerometer**
 <br>[[Paper]](https://infoscience.epfl.ch/record/183140/files/p43-rai.pdf?ln=en)
@@ -131,6 +156,6 @@ Papers on other topics:
 1. **SMART: A tool for analyzing and reconciling schema matching networks**
 <br>[[Paper]](https://infoscience.epfl.ch/record/203576/files/ICDE15_SMART.pdf?ln=en)
     [[Cite]](https://infoscience.epfl.ch/record/203576/export/btex)
-    
+
 ... more notes are coming soon ...
 <br>For a complete list of papers, see my [Google Scholar](https://scholar.google.com/citations?user=k3NGWtsAAAAJ&hl=en).
