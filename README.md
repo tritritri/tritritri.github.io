@@ -3,6 +3,8 @@
 I am currently working for Huawei Research on the topic of Recommender Systems and Deep Learning.
 <br>Email: tri [dot] kurniawan (dot) wijaya [ at ] huawei ( dot ) com
 
+[Trackin'AI](trackinai.md)
+
 ## Smart Grid, Demand Response, and Energy Analytics
 Below are notes and resources on papers I published during my PhD on the topic of demand response and smart grid analytics. 
 
