@@ -3,7 +3,7 @@
 I am currently working for Huawei Research on the topic of Recommender Systems and Deep Learning.
 <br>Email: tri [dot] kurniawan (dot) wijaya [ at ] huawei ( dot ) com
 
-[Trackin'AI](trackinai.md)
+[Tracking RecSys](tracking-recsys.md)
 
 ## Smart Grid, Demand Response, and Energy Analytics
 Below are notes and resources on papers I published during my PhD on the topic of demand response and smart grid analytics. 
@@ -123,47 +123,32 @@ See also this [announcement](https://www.pecanstreet.org/2014/03/with-wiki-energ
        [[Code + Dataset]](https://github.com/alarca94/magrec)
        [[Cite]](https://dblp.org/rec/conf/ecir/ArizaCasabonaTW23.html?view=bibtex)
        
+1. [RecSys] **Online Meta-Learning for Model Update Aggregation in Federated Learning for Click-Through Rate Prediction**
+   <br>[[Paper]](http://papers.adkdd.org/2022/papers/adkdd22-liu-online.pdf)
+       [[Slides]](http://papers.adkdd.org/2022/paper-presentations/slides-adkdd22-liu-online.pdf)
+       [[Video]](https://www.youtube.com/watch?v=l51DbzbZkJo)
+       [[Cite]](Liu_2022_MetaUA.bib)
+
 1. [CV] Quantitative Metrics for Evaluating Explanations of Video DeepFake Detectors
    <br>[[Paper]](https://bmvc2022.mpi-inf.mpg.de/0972.pdf)
        [[Video]](https://www.youtube.com/watch?v=KAwigBozHeM)
        [[Cite]](https://dblp.org/rec/conf/bmvc/BaldassarreDPW22.html?view=bibtex)
 
-1. [RecSys] **Online Meta-Learning for Model Update Aggregation in Federated Learning for Click-Through Rate Prediction**
-   <br>[[Paper]](http://papers.adkdd.org/2022/papers/adkdd22-liu-online.pdf)
-       [[Slides]](http://papers.adkdd.org/2022/paper-presentations/slides-adkdd22-liu-online.pdf)
-       [[Video]](https://www.youtube.com/watch?v=l51DbzbZkJo)
-       <details>
-       <summary>
-       [Cite]
-       </summary>
-        <pre>
-        @article{Liu/AdKDD/2022/MetaUA,
-        author       = {Xianghang Liu and
-                        Bartlomiej Twardowski and
-                        Tri Kurniawan Wijaya},
-        title        = {Online Meta-Learning for Model Update Aggregation in Federated Learning
-                        for Click-Through Rate Prediction},
-        journal      = {28th ACM SIGKDD 2022 Workshop on AdKDD},
-        year         = {2022},
-        url          = {https://www.adkdd.org/papers/Online-Meta-Learning-for-Model-Update-Aggregation-in-Federated-Learning-for-Click-Through-Rate-Prediction/2022},
-        doi          = {10.48550/arXiv.2209.00629},
-        }
-        </pre>
-       </details>
-
-
 1. [RecSys] MM-GEF: Multi-modal representation meet collaborative filtering
-
+   <br>[[Paper]](https://arxiv.org/pdf/2308.07222.pdf) 
+       [[Cite]](https://dblp.org/rec/journals/corr/abs-2308-07222.html?view=bibtex)
+   
 1. [RecSys] FedFNN: Faster Training Convergence Through Update Predictions in Federated Recommender Systems
+   <br>[[Paper]](https://arxiv.org/pdf/2309.08635.pdf)
+       [[Cite]](https://dblp.org/rec/journals/corr/abs-2309-08635.html?view=bibtex)
 
+
+<!--
 1. [NLP] Topics as Entity Clusters: Entity-based Topics from Language Models and Graph Neural Networks
-
 1. [NLP] STA: Self-controlled Text Augmentation for Improving Text Classifications
-
 1. [NLP] Multilingual News Location Detection using an Entity-Based Siamese Network with Semi-Supervised Contrastive Learning and Knowledge Base
-
 1. [NLP] SPICED: News Similarity Detection Dataset with Multiple Topics and Complexity Levels
-
+-->
 
 ## Other Papers
 
