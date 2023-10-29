@@ -25,14 +25,16 @@ email: tri.kurniawan.wijaya@huawei.com
 #line in _config.yml. It will appear in your document head meta (for
 #Google search results) and in your feed.xml site description.
 description: >- # this means to ignore newlines until "baseurl:"
-  A personal site of Tri Kurniawan Wijaya. 
-  Currently working for Huawei Research on the topic of Recommender Systems and Deep Learning.
+  Notes for Tri Kurniawan Wijaya's papers on smart grid, demand respnose, energy 
+  analytics, networking, schema matching, computer vision, and recommender systems. 
+  Tri Kurniawan Wijaya is currently working for Huawei Research on Recommender Systems 
+  and Deep Learning.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tritritri.github.io" 
 #twitter_username: jekyllrb
 #github_username:  jekyll
-#twitter_username: jekyllrb
-#github_username:  jekyll
+
 
 # Build settings
 theme: minima
