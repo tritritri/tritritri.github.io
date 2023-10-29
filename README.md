@@ -1,12 +1,12 @@
 # Tri Kurniawan Wijaya
 
-I am currently working for Huawei Research on the topic of Recommender Systems and Deep Learning.
+I am currently working for Huawei Research on Recommender Systems and Deep Learning.
 <br>Email: tri [dot] kurniawan (dot) wijaya [ at ] huawei ( dot ) com
 
 [Tracking RecSys](tracking-recsys.md)
 
 ## Smart Grid, Demand Response, and Energy Analytics
-Below are notes and resources on papers I published during my PhD on the topic of demand response and smart grid analytics. 
+Below are notes and resources on papers I published during my PhD on demand response and smart grid analytics. 
 
 1. **Estimating Human Interactions with Electrical Appliances for Activity-based Energy Savings Recommendations**
 <br>[[Paper]](https://infoscience.epfl.ch/record/206947/files/poster.pdf?ln=en)
@@ -23,7 +23,7 @@ See also this [announcement](https://www.pecanstreet.org/2014/03/with-wiki-energ
 <br>[[Paper]](https://infoscience.epfl.ch/record/204925/files/online_percom2015.pdf?ln=en)
     [[Supp. material]](https://infoscience.epfl.ch/record/204925/files/supp-material.pdf?ln=en)
     [[Cite]](https://infoscience.epfl.ch/record/204925/export/btex)
-<br>Dataset used: REDD dataset. The original dataset address (redd.csail.mit.edu) seems to be unavailable. Please email me for a personal copy.
+<br>Dataset used: REDD dataset. The original dataset address (redd.csail.mit.edu) is unavailable. Please email me for a personal copy.
 
 1. **Pervasive Data Analytics for Sustainable Energy Systems**
 <br>[[Paper]](https://infoscience.epfl.ch/record/207084/files/EPFL_TH6556.pdf?ln=en)
@@ -134,7 +134,7 @@ See also this [announcement](https://www.pecanstreet.org/2014/03/with-wiki-energ
        [[Video]](https://www.youtube.com/watch?v=KAwigBozHeM)
        [[Cite]](https://dblp.org/rec/conf/bmvc/BaldassarreDPW22.html?view=bibtex)
 
-1. [RecSys] MM-GEF: Multi-modal representation meet collaborative filtering
+1. [RecSys] MM-GEF: Multi-modal representation meets collaborative filtering
    <br>[[Paper]](https://arxiv.org/pdf/2308.07222.pdf) 
        [[Cite]](https://dblp.org/rec/journals/corr/abs-2308-07222.html?view=bibtex)
    
