@@ -18,17 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tri Kurniawan Wijaya
+title: ✏️ Tri Kurniawan WIJAYA
 email: tri.kurniawan.wijaya@huawei.com
 
 #Write an awesome description for your new site in 'description'. You can edit this
 #line in _config.yml. It will appear in your document head meta (for
 #Google search results) and in your feed.xml site description.
 description: >- # this means to ignore newlines until "baseurl:"
-  Notes for Tri Kurniawan Wijaya's papers on smart grid, demand respnose, energy 
-  analytics, networking, schema matching, computer vision, and recommender systems. 
-  Tri Kurniawan Wijaya is currently working for Huawei Research on Recommender Systems 
-  and Deep Learning.
+  This page contains resources (datasets, slides, source codes, and videos) for Tri's papers on smart grid, demand response, energy analytics, networking, schema matching, computer vision, and recommender systems. He is currently working for Huawei Research on Recommender Systems and Deep Learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://tritritri.github.io" 
